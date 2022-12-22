@@ -1,4 +1,3 @@
 # loading-animations
-A bunch of loading animations
 
-These are just a bunch of Google spinners and animations I collected ( ͡° ͜ʖ ͡°)
+These are just a bunch of Google spinners and animations I collected from the internet, although I like to say I made them ( ͡° ͜ʖ ͡°)
